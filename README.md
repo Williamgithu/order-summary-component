@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](http://127.0.0.1:5500/html/index.html)
+![Design preview for the Order summary card coding challenge]([http://127.0.0.1:5500/html/index.html](http://127.0.0.1:5500/images/icon-music.svg))
 
 ## Welcome! 👋
 
