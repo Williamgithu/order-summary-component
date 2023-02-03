@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](D:\Programação para Leigos e informática do básico ao avançado\exercicios programação\desafios, frontendmentor\desafio 2, Order summary component\order-summary-component-main\order summary component\order)
+![Design preview for the Order summary card coding challenge]([D:\Programação para Leigos e informática do básico ao avançado\exercicios programação\desafios, frontendmentor\desafio 2, Order summary component\order-summary-component-main\order summary component\order](http://127.0.0.1:5500/images/Order%20Summary.html))
 
 ## Welcome! 👋
 
