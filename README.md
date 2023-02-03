@@ -1,6 +1,6 @@
 > # Frontend Mentor - Order summary card
 
-
+![order](https://user-images.githubusercontent.com/89300825/216497204-739accd9-95ef-4057-b7dc-e3b7a8e6d323.png)
 
 ## Welcome! 👋
 
